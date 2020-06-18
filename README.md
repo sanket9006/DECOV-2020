@@ -21,35 +21,13 @@
 
 **Team Member's Email :-**
 
-          1) sanket.9006@gmail.com      
+          1) sanket.9006@gmail.com (Team Leader)     
           2) prasad323122@gmail.com
           3) maheshparkour265512@gmail.com
           4) chaitanyaabhang9299@gmail.com
-
-**University Name:-**
-
-           JSPM's Jayawantrao Sawant College Of Engineering
-
-
-**Please share about DSC related activities you participated in-**
-          
-          I have participited in two workshops hosted by DSC VIT, Pune one on Google Cloud using Qwiklabs 
-    and Another Flutter (Android) Development
-
-**When was this project started?**
-          
-          12-04-2020
-
-**Solution/Project Name**
-
-          AR (Augmented Reality) in Anatomy
-          
-**Share link to project**
-          
-          https://github.com/sanket9006/Developer-Student-Clubs-DSC-Solution-Challenge-2020
         
           
-**Please select one or more products/platform utilized in your solution?**
+**Products/platform utilized in your solution?**
 
           1) Google AR Core
           2) Firebase
@@ -62,13 +40,13 @@
 </p>
 
 
-**Please share a 2 minute or less video showing off the user journey of your solution**
+**Video showing off the user journey of your solution**
 
 [![IMAGE ALT TEXT HERE](https://github.com/sanket9006/Developer-Student-Clubs-DSC-Solution-Challenge-2020/blob/master/Picture1.png)](https://youtu.be/P3JJLimJYjw)
  
 
 
-**Please clearly describe the challenge you are looking to solve with technology and how this solution addresses the challenge at hand**
+**Challenge we are looking to solve with technology and how this solution addresses the challenge at hand**
 
           Currently, a student who wants to study Anatomy of different parts (organs) of the Human Body has to look and 
     understand everything from a picture or diagram.
@@ -76,7 +54,7 @@
     app Users can see Anatomy of different Human body parts in action, rotate them, zoom in and out. The app also 
     gives labeling of small parts too. AR helps the student better remember the information they have just learned. 
 
-**Walk us through the steps you took to test your solution**
+**Steps you took to test your solution**
              
            When we were creating this app, at that time we were creating APK of our project simultaneously for testing
     almost we have created APK 40 times. Out of which 20 were regarding the screen resolution problem related to 
@@ -84,8 +62,7 @@
     have come across several issues that I fixed in my Final App.
 
 
-**Please share the outcome of your testing strategy. What specific feedback did you receive from users? What specifically 
-did you maintain or iterate based on that feedback?**
+**Outcome of your testing strategy.Specific feedback we receive from users?**
                 
                 When we were creating our Project (App) at that we were distributing that app to users (Beta testers 
        - Medical Student) where they suggested us to include labels on the diagram (3D Model) so that it will be 
